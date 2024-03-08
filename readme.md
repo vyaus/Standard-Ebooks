@@ -2,17 +2,17 @@
 
 ## Folders with Special Characters that Can't Created on Windows System
 
->Ambrose Bierce/Can Such Things Be?
->Anthony Trollope/Can You Forgive Her?
->Dorothy L. Sayers/Whose Body?
->Horatio Alger Jr./Ragged Dick
->Karel Čapek/R.U.R.
->Leo Tolstoy/What Is Art?
->Philip Francis Nowlan/Armageddon 2419 A.D.
->Pierre-Joseph Proudhon/What Is Property?
->Richard Henry Dana Jr./To Cuba and Back
->Richard Henry Dana Jr./Two Years Before the Mast
->Washington Irving/The Sketch-Book of Geoffrey Crayon, Gent.
+ - Ambrose Bierce/Can Such Things Be?
+ - Anthony Trollope/Can You Forgive Her?
+ - Dorothy L. Sayers/Whose Body?
+ - Horatio Alger Jr./Ragged Dick
+ - Karel Čapek/R.U.R.
+ - Leo Tolstoy/What Is Art?
+ - Philip Francis Nowlan/Armageddon 2419 A.D.
+ - Pierre-Joseph Proudhon/What Is Property?
+ - Richard Henry Dana Jr./To Cuba and Back
+ - Richard Henry Dana Jr./Two Years Before the Mast
+ - Washington Irving/The Sketch-Book of Geoffrey Crayon, Gent.
 
 ## Works Order by epub File Size
 
