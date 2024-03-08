@@ -1,6 +1,8 @@
 # Standard Ebooks
 
-As of March 8, 2024, [Standard Ebooks](https://standardebooks.org/ebooks) offers a collection of 960 books, I have scraped all of the compatible epub books, and saved all of them in the format: `Author/Title/Title - Author.epub`. The path of the following 11 books include special characters, which are not permited on Windows system:
+As of March 8, 2024, [Standard Ebooks](https://standardebooks.org/ebooks) offers a collection of 960 books, I have downloaded all of the `compatible epub` format books, and saved all of them in the format: `Author/Title/Title - Author.epub`.
+
+The paths of 11 books include special characters, which are not permitted on Windows systems:
 
  - Ambrose Bierce/Can Such Things Be?
  - Anthony Trollope/Can You Forgive Her?
