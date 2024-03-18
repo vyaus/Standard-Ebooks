@@ -15,7 +15,7 @@ cursor = conn.cursor()
 # Replace 'your_table_name' with the name of your table
 query = "SELECT author, title, url FROM booklist"
 cursor.execute(query)
-
+book_format = ['epub', 'azw3', 'kepub.epub', 'advanced.epub']
 # Base URL for downloading the books
 base_url = "https://standardebooks.org"
 book_id = 1
@@ -23,7 +23,7 @@ for row in cursor.fetchall():
 	author, title, path_url = row
 	# Construct the book URL by replacing slashes with underscores and appending the format
 	book_url = '_'.join(path_url.split('/')[2:])
-	format = "epub"
+	format = book_format[0]
 	download_url = urljoin(base_url, f"{path_url}/downloads/{book_url}.{format}")
 	
 	# Create the directory if it does not exist
