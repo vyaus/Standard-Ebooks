@@ -16,7 +16,7 @@ The paths of 11 books include special characters, which are not permitted on Win
  - Richard Henry Dana Jr./Two Years Before the Mast
  - Washington Irving/The Sketch-Book of Geoffrey Crayon, Gent.
 
-But you can import multiple books from archive with calibre, only 4 books with title end with `?` is not imported:
+But you can import multiple books from archive with calibre, only 4 books with title end with `?` can't be imported:
 
  - Ambrose Bierce/Can Such Things Be?
  - Anthony Trollope/Can You Forgive Her?
